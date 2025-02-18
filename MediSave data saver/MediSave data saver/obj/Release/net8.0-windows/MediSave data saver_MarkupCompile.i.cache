@@ -1,0 +1,20 @@
+﻿MediSave data saver
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Release\net8.0-windows\
+MediSave_data_saver
+none
+false
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\App.xaml
+7-661344929
+
+13-2075461442
+239-2026025260
+DisplayData.xaml;EditData.xaml;LoginWindow.xaml;MainWindow.xaml;PatientData.xaml;RegisterUserWindow.xaml;VeiwPatient.xaml;
+
+True
+

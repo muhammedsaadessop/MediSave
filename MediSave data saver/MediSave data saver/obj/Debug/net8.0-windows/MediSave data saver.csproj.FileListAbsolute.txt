@@ -1,0 +1,125 @@
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\MediSave data saver.exe
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\MediSave data saver.dll.config
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\MediSave data saver.deps.json
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\MediSave data saver.runtimeconfig.json
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\MediSave data saver.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\MediSave data saver.pdb
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\PdfSharp.Quality.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\PdfSharp.Snippets.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\PdfSharp.System.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\PdfSharp.WPFonts.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\PdfSharp.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\MediSave data saver.csproj.AssemblyReference.cache
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\PatientData.baml
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\RegisterUserWindow.baml
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\DisplayData.g.cs
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\EditData.g.cs
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\PatientData.g.cs
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\RegisterUserWindow.g.cs
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\MediSave data saver_MarkupCompile.cache
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\MediSave data saver_MarkupCompile.lref
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\DisplayData.baml
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\EditData.baml
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\MediSave data saver.g.resources
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\MediSave data saver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\MediSave data saver.AssemblyInfoInputs.cache
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\MediSave data saver.AssemblyInfo.cs
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\MediSave data saver.csproj.CoreCompileInputs.cache
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\MediSave.3EF34F05.Up2Date
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\MediSave data saver.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\refint\MediSave data saver.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\MediSave data saver.pdb
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\MediSave data saver.genruntimeconfig.cache
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\ref\MediSave data saver.dll
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\VeiwPatient.g.cs
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\VeiwPatient.baml
+C:\Users\rough\source\repos\MediSave data saver\MediSave data saver\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs

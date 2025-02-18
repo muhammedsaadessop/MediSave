@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<configSections>
+  <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+   <section name="MediSave_data_saver.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+  </sectionGroup>
+ </configSections>
+ <connectionStrings>
+		<add name="MyDBConnection"
+    connectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=MediSave;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False;"
+    providerName="System.Data.SqlClient"/>
+	</connectionStrings>
+ <userSettings>
+  <MediSave_data_saver.Properties.Settings>
+   <setting name="IsLoggedIn" serializeAs="String">
+    <value>False</value>
+   </setting>
+   <setting name="LoggedInUser" serializeAs="String">
+    <value />
+   </setting>
+  </MediSave_data_saver.Properties.Settings>
+ </userSettings>
+</configuration>

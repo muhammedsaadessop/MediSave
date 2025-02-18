@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rough\\source\\repos\\MediSave data saver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59670ED9-7C46-4D77-9CCD-2F50F679BBF6}|MediSave data saver\\MediSave data saver.csproj|c:\\users\\rough\\source\\repos\\medisave data saver\\medisave data saver\\veiwpatient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59670ED9-7C46-4D77-9CCD-2F50F679BBF6}|MediSave data saver\\MediSave data saver.csproj|solutionrelative:medisave data saver\\veiwpatient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59670ED9-7C46-4D77-9CCD-2F50F679BBF6}|MediSave data saver\\MediSave data saver.csproj|c:\\users\\rough\\source\\repos\\medisave data saver\\medisave data saver\\displaydata.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59670ED9-7C46-4D77-9CCD-2F50F679BBF6}|MediSave data saver\\MediSave data saver.csproj|solutionrelative:medisave data saver\\displaydata.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59670ED9-7C46-4D77-9CCD-2F50F679BBF6}|MediSave data saver\\MediSave data saver.csproj|c:\\users\\rough\\source\\repos\\medisave data saver\\medisave data saver\\displaydata.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59670ED9-7C46-4D77-9CCD-2F50F679BBF6}|MediSave data saver\\MediSave data saver.csproj|solutionrelative:medisave data saver\\displaydata.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59670ED9-7C46-4D77-9CCD-2F50F679BBF6}|MediSave data saver\\MediSave data saver.csproj|c:\\users\\rough\\source\\repos\\medisave data saver\\medisave data saver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59670ED9-7C46-4D77-9CCD-2F50F679BBF6}|MediSave data saver\\MediSave data saver.csproj|solutionrelative:medisave data saver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59670ED9-7C46-4D77-9CCD-2F50F679BBF6}|MediSave data saver\\MediSave data saver.csproj|c:\\users\\rough\\source\\repos\\medisave data saver\\medisave data saver\\editdata.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59670ED9-7C46-4D77-9CCD-2F50F679BBF6}|MediSave data saver\\MediSave data saver.csproj|solutionrelative:medisave data saver\\editdata.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59670ED9-7C46-4D77-9CCD-2F50F679BBF6}|MediSave data saver\\MediSave data saver.csproj|c:\\users\\rough\\source\\repos\\medisave data saver\\medisave data saver\\editdata.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59670ED9-7C46-4D77-9CCD-2F50F679BBF6}|MediSave data saver\\MediSave data saver.csproj|solutionrelative:medisave data saver\\editdata.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59670ED9-7C46-4D77-9CCD-2F50F679BBF6}|MediSave data saver\\MediSave data saver.csproj|c:\\users\\rough\\source\\repos\\medisave data saver\\medisave data saver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59670ED9-7C46-4D77-9CCD-2F50F679BBF6}|MediSave data saver\\MediSave data saver.csproj|solutionrelative:medisave data saver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59670ED9-7C46-4D77-9CCD-2F50F679BBF6}|MediSave data saver\\MediSave data saver.csproj|c:\\users\\rough\\source\\repos\\medisave data saver\\medisave data saver\\veiwpatient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59670ED9-7C46-4D77-9CCD-2F50F679BBF6}|MediSave data saver\\MediSave data saver.csproj|solutionrelative:medisave data saver\\veiwpatient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59670ED9-7C46-4D77-9CCD-2F50F679BBF6}|MediSave data saver\\MediSave data saver.csproj|c:\\users\\rough\\source\\repos\\medisave data saver\\medisave data saver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{59670ED9-7C46-4D77-9CCD-2F50F679BBF6}|MediSave data saver\\MediSave data saver.csproj|solutionrelative:medisave data saver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\rough\\source\\repos\\MediSave data saver\\MediSave data saver\\App.config",
+              "RelativeDocumentMoniker": "MediSave data saver\\App.config",
+              "ToolTip": "C:\\Users\\rough\\source\\repos\\MediSave data saver\\MediSave data saver\\App.config",
+              "RelativeToolTip": "MediSave data saver\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAADjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-30T11:06:52.812Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rough\\source\\repos\\MediSave data saver\\MediSave data saver\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MediSave data saver\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\rough\\source\\repos\\MediSave data saver\\MediSave data saver\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MediSave data saver\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAA9wHUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:37:19.673Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\rough\\source\\repos\\MediSave data saver\\MediSave data saver\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MediSave data saver\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\rough\\source\\repos\\MediSave data saver\\MediSave data saver\\MainWindow.xaml",
+              "RelativeToolTip": "MediSave data saver\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-06T08:20:41.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditData.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rough\\source\\repos\\MediSave data saver\\MediSave data saver\\EditData.xaml.cs",
+              "RelativeDocumentMoniker": "MediSave data saver\\EditData.xaml.cs",
+              "ToolTip": "C:\\Users\\rough\\source\\repos\\MediSave data saver\\MediSave data saver\\EditData.xaml.cs",
+              "RelativeToolTip": "MediSave data saver\\EditData.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T08:04:05.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VeiwPatient.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rough\\source\\repos\\MediSave data saver\\MediSave data saver\\VeiwPatient.xaml.cs",
+              "RelativeDocumentMoniker": "MediSave data saver\\VeiwPatient.xaml.cs",
+              "ToolTip": "C:\\Users\\rough\\source\\repos\\MediSave data saver\\MediSave data saver\\VeiwPatient.xaml.cs",
+              "RelativeToolTip": "MediSave data saver\\VeiwPatient.xaml.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAcwLgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:02:29.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VeiwPatient.xaml",
+              "DocumentMoniker": "C:\\Users\\rough\\source\\repos\\MediSave data saver\\MediSave data saver\\VeiwPatient.xaml",
+              "RelativeDocumentMoniker": "MediSave data saver\\VeiwPatient.xaml",
+              "ToolTip": "C:\\Users\\rough\\source\\repos\\MediSave data saver\\MediSave data saver\\VeiwPatient.xaml",
+              "RelativeToolTip": "MediSave data saver\\VeiwPatient.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-06T06:55:37.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayData.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rough\\source\\repos\\MediSave data saver\\MediSave data saver\\DisplayData.xaml.cs",
+              "RelativeDocumentMoniker": "MediSave data saver\\DisplayData.xaml.cs",
+              "ToolTip": "C:\\Users\\rough\\source\\repos\\MediSave data saver\\MediSave data saver\\DisplayData.xaml.cs",
+              "RelativeToolTip": "MediSave data saver\\DisplayData.xaml.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowCUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:59:00.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisplayData.xaml",
+              "DocumentMoniker": "C:\\Users\\rough\\source\\repos\\MediSave data saver\\MediSave data saver\\DisplayData.xaml",
+              "RelativeDocumentMoniker": "MediSave data saver\\DisplayData.xaml",
+              "ToolTip": "C:\\Users\\rough\\source\\repos\\MediSave data saver\\MediSave data saver\\DisplayData.xaml",
+              "RelativeToolTip": "MediSave data saver\\DisplayData.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-04T08:58:12.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditData.xaml",
+              "DocumentMoniker": "C:\\Users\\rough\\source\\repos\\MediSave data saver\\MediSave data saver\\EditData.xaml",
+              "RelativeDocumentMoniker": "MediSave data saver\\EditData.xaml",
+              "ToolTip": "C:\\Users\\rough\\source\\repos\\MediSave data saver\\MediSave data saver\\EditData.xaml",
+              "RelativeToolTip": "MediSave data saver\\EditData.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-05T13:47:27.193Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

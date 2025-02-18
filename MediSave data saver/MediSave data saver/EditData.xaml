@@ -1,0 +1,47 @@
+﻿<Window x:Class="MediSave_data_saver.EditData"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MediSave_data_saver"
+        mc:Ignorable="d"
+        Title="EditData" Height="700" Width="800">
+
+    <Grid Margin="0,20,0,-16">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*" />
+            <!-- Adjust this row definition for flexibility -->
+        </Grid.RowDefinitions>
+
+        <!-- Label and Multiline TextBox for Main Complaint -->
+        <TextBlock Grid.Row="0" Text="Main Complaint" FontWeight="Bold" Margin="5"/>
+        <TextBox x:Name="MainComplaintTextBox" Grid.Row="1" Margin="5" Height="100" 
+                 AcceptsReturn="True" VerticalScrollBarVisibility="Auto"/>
+
+        <!-- Label and Multiline TextBox for Examination -->
+        <TextBlock Grid.Row="2" Text="Examination" FontWeight="Bold" Margin="5"/>
+        <TextBox x:Name="ExaminationTextBox" Grid.Row="3" Margin="5" Height="100" 
+                 AcceptsReturn="True" VerticalScrollBarVisibility="Auto"/>
+
+        <!-- Label and Multiline TextBox for Results -->
+        <TextBlock Grid.Row="4" Text="Results" FontWeight="Bold" Margin="5"/>
+        <TextBox x:Name="ResultsTextBox" Grid.Row="5" Margin="5" Height="100" 
+                 AcceptsReturn="True" VerticalScrollBarVisibility="Auto"/>
+
+        <!-- Label and Multiline TextBox for Treatment -->
+        <TextBlock Grid.Row="6" Text="Treatment" FontWeight="Bold" Margin="5"/>
+        <TextBox x:Name="TreatmentTextBox" Grid.Row="7" Margin="5,10,5,136" Height="100" 
+                 AcceptsReturn="True" VerticalScrollBarVisibility="Auto"/>
+
+        <!-- Save Button (Now in its own row) -->
+        <Button Content="Save" Grid.Row="7" HorizontalAlignment="Left" Margin="325,143,0,32" 
+                Click="SaveButton_Click" Width="100" Height="35"/>
+    </Grid>
+</Window>
